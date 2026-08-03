@@ -24,8 +24,6 @@
 
 ## 📸 Portfolio Preview
 
-> 📷 Replace the image below with a screenshot of your portfolio homepage.
-
 <p align="center">
   <img src="images/portfolio-preview.png" width="900" alt="Portfolio Preview">
 </p>
